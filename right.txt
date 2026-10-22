@@ -1,4 +1,4 @@
+right 1
 right 2
-right 3
 right 4
-right 4
+right 6
